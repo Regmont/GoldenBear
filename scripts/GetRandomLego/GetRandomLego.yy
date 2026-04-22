@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GetRandomLego",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GetRandomLego",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

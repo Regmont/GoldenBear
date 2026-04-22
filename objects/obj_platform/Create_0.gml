@@ -1,0 +1,2 @@
+depth = 1;
+index = random_range(0, 6);

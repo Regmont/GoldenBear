@@ -1,0 +1,2 @@
+draw_sprite_ext(Sprite_soldier_inv, image_index, inventory_slot_3.x, inventory_slot_3.y, 1, 1, 0, c_white, 1);
+draw_text_transformed_color(inventory_slot_3.x - 34, inventory_slot_3.y - 40, my_struct.count, 2, 2, 0, c_red, c_red, c_red, c_red, 1);

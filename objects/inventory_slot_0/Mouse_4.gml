@@ -1,0 +1,1 @@
+global.current_obj = obj_lego;
